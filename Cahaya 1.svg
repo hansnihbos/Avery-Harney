@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 37.86 14.33">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #f9bc41;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        opacity: .57;
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" width="37.86" height="14.33"/>
+    </clipPath>
+    <image id="image" width="174" height="174" xlink:href="data:image/png;base64,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"/>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g class="cls-5">
+      <g>
+        <g>
+          <use class="cls-4" transform="translate(58.49 -36.59) rotate(166.92) scale(.42 -.42)" xlink:href="#image"/>
+          <g>
+            <g>
+              <circle class="cls-3" cx="31.36" cy="7.03" r="2.44"/>
+              <path class="cls-2" d="M33.68,6.2c1.18,3.49-3.32,4.75-4.76,1.7-1.27-3.31,3.57-5.18,4.76-1.7h0ZM33.63,6.22c-1.09-2.58-5.18-1.18-4.42,1.58.85,2.94,5.28,1.08,4.42-1.58h0Z"/>
+            </g>
+            <g>
+              <circle class="cls-3" cx="30.22" cy="6.72" r=".68"/>
+              <circle class="cls-3" cx="30.16" cy="8.08" r=".35"/>
+            </g>
+          </g>
+        </g>
+        <g>
+          <use class="cls-4" transform="translate(47.29 -36.59) rotate(166.92) scale(.42 -.42)" xlink:href="#image"/>
+          <g>
+            <g>
+              <circle class="cls-3" cx="20.16" cy="7.03" r="2.44"/>
+              <path class="cls-2" d="M22.48,6.2c1.18,3.49-3.32,4.75-4.76,1.7-1.27-3.31,3.57-5.18,4.76-1.7h0ZM22.43,6.22c-1.09-2.58-5.18-1.18-4.42,1.58.85,2.94,5.28,1.08,4.42-1.58h0Z"/>
+            </g>
+            <g>
+              <circle class="cls-3" cx="19.02" cy="6.72" r=".68"/>
+              <circle class="cls-3" cx="18.96" cy="8.08" r=".35"/>
+            </g>
+          </g>
+        </g>
+        <g>
+          <use class="cls-4" transform="translate(36.09 -36.59) rotate(166.92) scale(.42 -.42)" xlink:href="#image"/>
+          <g>
+            <g>
+              <circle class="cls-3" cx="8.96" cy="7.03" r="2.44"/>
+              <path class="cls-2" d="M11.28,6.2c1.18,3.49-3.32,4.75-4.76,1.7-1.27-3.31,3.57-5.18,4.76-1.7h0ZM11.23,6.22c-1.09-2.58-5.18-1.18-4.42,1.58.85,2.94,5.28,1.08,4.42-1.58h0Z"/>
+            </g>
+            <g>
+              <circle class="cls-3" cx="7.82" cy="6.72" r=".68"/>
+              <circle class="cls-3" cx="7.76" cy="8.08" r=".35"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
